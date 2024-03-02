@@ -1,9 +1,10 @@
 {
-    "Reward": "ca-app-pub-3940256099942544/5224354917",
-    "Inter": "ca-app-pub-8283881532539011/3706824991",
-    "version": "1.1",
-    "message": "What's new\nTEST1.1",
-    "files": [
+"Reward": "ca-app-pub-3940256099942544/5224354917",
+"Inter": "ca-app-pub-8283881532539011/3706824991",
+"version": 1.1,
+"message": "What's new \nTEST1.1",
+
+"files": [
 
 {
          //server-1
