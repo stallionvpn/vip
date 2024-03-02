@@ -1,0 +1,33 @@
+{
+"Reward": "ca-app-pub-3940256099942544/5224354917",
+"Inter": "ca-app-pub-8283881532539011/3706824991",
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-1
+         "config": "sVQUScnMS/0PITrBCxStpdalJ30iIozR+GkRbmuhCzId+1G8NHNGMoRnN7UJlpRQtUJKnkTO5dJnWIlvbtiPgfsIosEQibca0YKig4E28c0tvfSP3dtJnCCIC3/D3nb4rjRhuKna2/mNm190XDp2009iz7BW0wGoM/0GTOUMWfPlwH6LNCeHl4TZggUN3xT1IIZLbA4fti5E8Jrfw1H58BYrO1PZ/FrzcKsqWb3roc3hQKOMUyZJyvhvJSaywnsYssfBET3pgIk="
+     
+},
+{
+        //server-2
+      "config": "2QaTcsxj9vYgQauWmTnH2XZoY8YtdpoR6LcPm4DvbpvMxVRL/eFAKBu/kLGdUtyF/6wGg1ok0/bpOTskfzK7E9eKokmsnczQPv83dHKAcIlbErDTmpGpw2bDUr4+zfi4JfKT8gF7wCBLdOiYGwlOU66pX1weFYjYFlop8U0WnxCcwEMzuc9fG/tqK+9KTLbcCxHqLBNPTQOWp+++6fypwtRMUsgNUTx+gDFAFD6hLFvLBJJKFMEQI7U/SsDTshVFO38DEw=="
+      
+      }
+      
+
+   ],
+
+
+
+"dtac": "Dtac SIM Guide \nContent here",
+
+"true": "True SIM Guide \nContent here",
+
+"ais": "Ais SIM Guide \nContent here"
+
+
+
+}
