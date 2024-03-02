@@ -1,8 +1,8 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "ca-app-pub-8283881532539011/3706824991",
-"version": 1.3,
-"message": "What's new \nAdded new server",
+"version": 2,
+"message": "What's new \nAdded Thai server",
 
 "files": [
 
@@ -35,7 +35,37 @@
         //server-6
       "config": "fglWplx4gHxtxp8KqglVgufK6iMioDrJ0dPJKLXz9UmXbfuXRCNiZFQSrW6l645KnGFywLTQdjRLg/BpDeOWY+Jq0bj7TsNOHjVGzfMHc5yyNjh28MZMonR4ZG050kxfw8KPCHiIvhNS7+ZUSAX9lQVrM021y5Z9ZqL9XcnjvXO42ZlWxMEKN6MJybd4zRCgb9AsoyO/8qx1VVAgBecI40Q929lp0bOgsfck6f7dZUi+QoTo"
       
-      }
+      },
+         {
+        //server-7
+      "config": "f8H4E3wk2S95Lu9fKuRpdoxzxCK9Aiprh51Rt+kyOzu15zD797ccYZsLU5oppErWZzP0wCcOJ9/d46XGe/GULMs0WVia1q+FY6dTlENJ6gNboPHYUjPqm5jPD0S0N2gjR4NjjllxGd31mQKneKZ9LedtmLm1Gjmh96/KiYOSZJRO9HtytD49f5f3srnW7I1tqolRmG2Vwhk9/hhO6x+/OMyqTekT7Y74T2XOIrdBvkiw+atJ5jKaBO4n7ibDJX/osmjnm4V3Oa9GViKVS1M6ccXP3e0wkn/MI09yY8ohbOgzkoEcgscXoUZqjx2oQ+FKx0nv3GlHFuZ7JgtxXBW7clf9UgqIKtmD8eGRSOxwgPvkYriPJTEgbd00Jz7TCIdGAfO8FYq8TQOzFCLbZNa1vdpwBas0T+mJATZTEdNjKztfUUJiV+7YeiuzH50kDNFX6NExag=="
+      
+      },
+         {
+        //server-8
+      "config": "+AuxjaCk0f8fly8YSkBIS68BDS5VijBsEnpXUEKbSz5BT+3D76GhtBM+aSlKjlCzu/Q7PvnNmb6pd/Q7etP0rH/5cIfdgLf4lZtE4QL+VD/XaFDzBsq3gmBt3fGgUY7fPFyTaHB0mhMbJIfEARrtNA2AF6hwIoOF1N2gxHRIiO5OUcaY2VKJznDN4jrJSQhCOKKSHEFhtqiLNJurZ+vS5X/ArCVKH9NOO2z9Z0Hlq5fLqynY4zXqhnE676K5xMpzirskB2pOgrFXI/GnH9T3xAw+uorHGsIO/GYsMNqGzLuks92eK22UeiJuHAa72fU9XIWITMMV1pNoZqAjN4e+AanTAt9aAHaVj5Ilqz8sGcqSQqyvswk/I3yRj+NKGhk6L/5jdnIdaavXiBKZwTICOAo0A+ajQhwMaJF/BBrQmCsVazjSj66pL3IZjMo30RPV"
+      
+      },
+         {
+        //server-9
+      "config": "WOT94ExjAHXT0SHa4sWbNFWkWQCvt1CJ1MOCzMQD6XMfqu3oPUorkeBfwv184YxR/PaINGD7E+KzccYzEjSd3nPpXBOGnDsvwbYTUxkBrBWRVVRXbpylfMpsmhsRuq771BYGXXRlNiklTZslGZIidrnEUpPgm+QjsTCSaU4/UobddvBcN/+o0cMoVKFxIzvXw/pWajkuXCa1B2sWAlLQl5pLVPGMIbGl2gLmVqGxKUEVQmmLa1291oGEqgGgEYAg8SZfZT3gj6UF9IRpvQyHQooXeXHGvBXQTGAZKVWCv7VoRTdwL3ykl6YX+S1u+TjoEDggiEQxFZHXveqrtnJX6s9nvggQz1P3nqGhBAINuRh/M/EVwj2Ri8jzgEvy6u9DpVmfCGnsn60hBH1F9mhqNkyWieoJuGhjHQi5cL5NcyWM8h3zKzFiX+QSVnnH3gZ0uUSwZNLmOLw="
+      
+      },
+         {
+        //server-10
+      "config": "3qciy6JiPsYELg4nahjPfsJ3gpAIc++1W5nm7qLVQNYK0Vlau6uwnnblGHH90RfcNMwObI9YphTyCy0Y7I7KzAvxUJc6RwGcdsJ0BhineHdApoN04NsM8kLx+AfJSfg0Ce7d2YNwZcTWyoMa1Ygo63y4cc3Tk/7qkxYAwiO5IEBQmrTQNn7heRiLxmmCUwz5P/Z2ZBnRL3u6lCE4b3ugL/miPEsEmrImMT2MXao5kNsz7INf/f+ALq3yDFJr1/I+30hRWD4B3+3JF700qvW0UhOlH+0sgPYjJh8h56ISup88dCy0rHKcRrONUSu6jL47wITkR7Ua94M1agWvUXPkJhRHzJ/AF6xI68hbsZJtWJZFT4nyjivxXglMA1zdpb7/+PR0m3tuF7/d3WGFs/4xdeGvTVDX/zJelS2HL2yQ+DI/OfggnJ11Pecqk/WS1fT8psQBIQ=="
+      
+      },
+         {
+        //server-11
+      "config": "Dkira1//5iv2YdnRdckqlRBLMriVJ80X/wlN3QPnuP9xieZLhK3N1V7oAJhHAIl8OxLK4y4BgclwPZqSA0bwUOG5+PIDk69VNUbO0FjINSDF5pMArV10iUfo2UNIWhXbtf+ghrIKcbzuis9gC40z7vH0HDaSTFEuYylIdy+G3NtmJbTgBdg0xM3WLdaNvnuTbiWM31fU+2ybAZRJ9rgn2OcMD6RQTPN0wIZT41qE0Lugeh2NhxuJRnxQkP8p6ISVWGvYZPTCyXoPFajcuppWl4oQ4bf65YY/uInt6/uj0aJWt9DGfgLcWMvjueiCNtn5F5+B1i5Zc4eBW2wpCA6yJ6O6xEwpghS0q03Mze2/ouHnvLDzF4r/LZkDCSdX441jGa1M0p1UMuGTNJs0W4zNZGpVz8C6YW3BARVr4HxNzy5fTmHQ9aJbSHywRIhnXqyo"
+      
+      },
+         {
+        //server-12
+      "config": "PE4f5WKY5L29xjoEVefLKvxO8RvCmETlcN7geQdQvauiQZpSIhNEPadScqqpygpCgmmtmf5O6aN7AwcqGtCZdNntclTi4QY5BE997rdorde/SEfsVLaJaMZAOecua4UCQIr1CSANhagpkVU6RSr9WhlFKKwYYkpheijK8wNvitqP6Z0SaYVeuQugax+zta+8qSkazqA36ZZ7gXJQ4atvQM6NPyPo/YOIdbU718abGyZ38qbLliwVmKDjNE9I+eKTiIboXRDpL6PeUdvK4r7crR4KdmZqwU92hBmi3keOEgXS3FYTR3i6mFCttgwEfrxhRdFik3bJjMzwKHXu5Qjs1f7wKMjUJDyeGflPI2VPQNn/yGUOZBxJcOgJIn+veRyuLhzbfla5CHsOHdl3xM1KXqI3l4ccfVI/8h+Xn4Hw3/HzY0Q3uCtHAVUgTRO9BevvvXHEznC/nRg="
+      
+      },
       
 
    ],
