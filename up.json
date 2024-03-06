@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "ca-app-pub-8283881532539011/3706824991",
-"version": 2,
+"version": 3,
 "message": "What's new \nAdded Thai server",
 
 "files": [
@@ -72,11 +72,11 @@
 
 
 
-"dtac": "Dtac SIM Guide \nContent here",
+"dtac": "Dtac SIM Guide \nตอนนี้ซิมดีแทคใช้งานได้โดยไม่จำเป็นต้องมีโปร",
 
-"true": "True SIM Guide \nContent here",
+"true": "True SIM Guide \nตอนนี้ซฺิมทรูใช้งานได้โดยไม่จำเป็นต้องมีโปร",
 
-"ais": "Ais SIM Guide \nContent here"
+"ais": "Ais SIM Guide \nซิมเอไอเอสจำเป็นต้องสมัครโปร\nวิํธีการสมัครโปร\n1.กด *777*7068# โปร 128 kb 33 บาท ต่อเดือน\n2.กด *777*885# โปรเอไอเอสเพลย 59 บาทต่อเดือน"
 
 
 
